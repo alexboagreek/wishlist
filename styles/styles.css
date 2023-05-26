@@ -1,1 +1,10 @@
-body {background-color: aqua;}
+@import 'normalize.css';
+
+body {
+  background-color: #365ABA;
+}
+
+.visually-hidden {
+  position: fixed;
+  transform: scale(0);
+}
