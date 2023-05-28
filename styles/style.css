@@ -78,7 +78,11 @@ fieldset {
   font-size: 34px;
   text-transform: capitalize;
   color: #365ABA;
+}
 
+.btn__castling {
+  background-color: #365ABA;
+  color: #FFFFFF;
 }
 
 .visually-hidden {
